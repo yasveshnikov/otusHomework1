@@ -149,3 +149,8 @@ buildNumber.properties
 *lol
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,maven,java,test
+
+.idea
+*/target
+*.iml
+*.log
