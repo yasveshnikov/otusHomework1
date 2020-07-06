@@ -232,3 +232,6 @@ Temporary Items
 *lol
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,test,macos
+
+.idea
+*.xml
