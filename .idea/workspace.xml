@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82eec473-b14f-4358-a2d4-d5c56f7102c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="82eec473-b14f-4358-a2d4-d5c56f7102c7" name="Default Changelist" comment="gitignore-fix">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594071028362</updated>
     </task>
+    <task id="LOCAL-00001" summary="gitignore-fix">
+      <created>1594074032839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594074032839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore-fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore-fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594072304391">
@@ -121,5 +131,9 @@
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1594073046626" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1594074035558">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1594074035558" />
   </component>
 </project>
