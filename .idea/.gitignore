@@ -1,3 +1,6 @@
+.idea
+*/target
+*.iml
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,maven,java,test
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,maven,java,test
@@ -149,8 +152,3 @@ buildNumber.properties
 *lol
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,maven,java,test
-
-.idea
-*/target
-*.iml
-*.log
